@@ -134,7 +134,7 @@ while running:
             
             pygame.time.Clock().tick(60)
             time.sleep(3)
-            sys.quit()
+            pygame.quit()
             
           
     else:
@@ -187,7 +187,7 @@ while running:
 
             
             pygame.time.Clock().tick(60)
-     
+            pygame.quit()
 
     if player_x < 0:
         player_x = 0
