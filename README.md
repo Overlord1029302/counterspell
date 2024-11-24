@@ -1,0 +1,3 @@
+### Why You Should Play My Horror Game
+
+If you love thrilling adventures and spine-chilling mysteries, my horror game is the perfect choice for you. It combines an immersive storyline with atmospheric visuals that keep you on the edge of your seat. With challenging puzzles and unpredictable twists, every decision you make will shape the outcome, ensuring a unique experience each time. Whether you enjoy exploring eerie environments or testing your bravery against terrifying creatures, this game guarantees an unforgettable journey into the unknown. Dare to play and discover the secrets lurking in the shadows!
